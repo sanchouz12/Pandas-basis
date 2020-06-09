@@ -1,4 +1,4 @@
-# Can analysis
+# Pandas basis
 
 There are one of the most useful features in Pandas. As an exapmple was used small cars dataset.
 
