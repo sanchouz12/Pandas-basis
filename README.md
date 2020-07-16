@@ -8,7 +8,7 @@ There are one of the most useful features in Pandas. As an exapmple was used sma
 
 1. Clone the repository or download archive 
 ```
-git clone https://github.com/sanchouz12/Can-analysis
+git clone https://github.com/sanchouz12/Pandas-basis
 ```
 2. Install needed dependencies in conda environment:
 ```
